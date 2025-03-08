@@ -7,7 +7,8 @@ dotTinyNet .NET Milk-V Duo Library and Tools
 Milk-V duos  
 
 ### DuoLibrary
-* Pin Mux interface
+* Read/Write Pin Mux interface
+* Nuget Package available
 
 ### PinMux
  Command line app, similar to duo-pinmux (uses the DuoLibrary)
