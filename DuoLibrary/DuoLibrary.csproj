@@ -5,6 +5,11 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Title>DuoLibrary</Title>
+        <Description>Milk-V Duo Library</Description>
+        <Copyright>Logic Ethos Ltd</Copyright>
+        <PackageProjectUrl>https://github.com/dotTinyNet/DuoTools</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/dotTinyNet/DuoTools/blob/main/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>
